@@ -1,7 +1,7 @@
 ﻿using System.Text;
 using RabbitMQ.Client;
 
-namespace RabbitMQSend
+namespace RabbitMQHelloWorld
 {
     internal class Program
     {

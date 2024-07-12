@@ -2,7 +2,7 @@
 using RabbitMQ.Client;
 using RabbitMQ.Client.Events;
 
-namespace RabbitMQReceive
+namespace RabbitMQHelloWorld
 {
     internal class Program
     {
